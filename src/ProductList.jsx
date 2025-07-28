@@ -26,7 +26,9 @@ function ProductList({ onHomeClick }) {
                 },
                 {
                     name: "Spider Plant",
-                    image: "https://cdn.pixabay.com/photo/2018/07/11/06/47/chlorophytum-3530413_1280.jpg",
+//                    image: "https://cdn.pixabay.com/photo/2018/07/11/06/47/chlorophytum-3530413_1280.jpg",
+                    image: "https://cdn.pixabay.com/photo/2019/10/31/07/35/chlorophytum-4591213_1280.jpg",
+
                     description: "Filters formaldehyde and xylene from the air.",
                     cost: "$12"
                 },
