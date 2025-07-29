@@ -310,7 +310,7 @@ function ProductList({ onHomeClick }) {
                                             className="product-button"
                                             onClick={() => handleAddToCart(plant)} // Handle adding plant to cart
                                         >
-                                            Add to Cart
+                                            Add 2 Cart
                                         </button>
                                     </div>
                                 ))}
