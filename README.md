@@ -1,1 +1,2 @@
-# coding-project-template
+# Front-End Apps with React
+e-plantShopping 
